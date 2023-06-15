@@ -1,0 +1,35 @@
+{
+    "$schema": "https://go.kicad.org/pcm/schemas/v1",
+    "name": "My Beautiful Theme",
+    "description": "A plugin to hide all reference designators",
+    "description_full": "This plugin allows to hide all reference designators in a Layout file at the click of a single button",
+    "identifier": "com.github.joelsa.kicad-hide-references-plugin",
+    "type": "colortheme",
+    "author": {
+        "name": "Joel Schulz-Andres",
+        "contact": {
+            "web": "https://joelsa.de"
+        }
+    },
+    "maintainer": { 
+        "name": "Joel Schulz-Andres",
+        "contact": {
+            "web": "https://joelsa.de"
+        }
+    },
+    "license": "GPL-3.0",
+    "resources": {
+        "homepage": "https://github.com/joelsa/kicad-hide-references-plugin"
+    },
+    "versions": [
+        {
+            "version": "1.0",
+            "status": "stable",
+            "kicad_version": "7.0",
+            "download_sha256": "YOUR_SHA256_HERE",
+            "download_size": 1234,
+            "download_url": "https://github.com/YOUR/DOWNLOAD/URL/kicad-hide-references-plugin.zip",
+            "install_size": 5678
+        }
+    ]
+}
