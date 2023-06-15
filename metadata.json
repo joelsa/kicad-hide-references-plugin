@@ -8,13 +8,13 @@
     "author": {
         "name": "Joel Schulz-Andres",
         "contact": {
-            "web": "https://joelsa.de"
+            "GitHub": "https://github.com/joelsa/kicad-hide-references-plugin"
         }
     },
     "maintainer": { 
         "name": "Joel Schulz-Andres",
         "contact": {
-            "web": "https://joelsa.de"
+            "GitHub": "https://github.com/joelsa/kicad-hide-references-plugin"
         }
     },
     "license": "GPL-3.0",
