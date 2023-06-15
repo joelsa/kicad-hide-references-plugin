@@ -27,9 +27,9 @@
             "status": "stable",
             "kicad_version": "7.0",
             "download_sha256": "YOUR_SHA256_HERE",
-            "download_size": 1234,
-            "download_url": "https://github.com/YOUR/DOWNLOAD/URL/kicad-hide-references-plugin.zip",
-            "install_size": 5678
+            "download_size": 5779,
+            "download_url": "https://github.com/joelsa/kicad-hide-references-plugin/releases/download/v1.0/hide_references.zip",
+            "install_size": 13263
         }
     ]
 }
