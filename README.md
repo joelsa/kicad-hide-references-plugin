@@ -7,3 +7,9 @@ While modern versions of KiCad allow to do this natively (Edit -> Edit Text and 
 ## Installation
 
 To install, just move the hide_references folder to your KiCad Plugin space, as with any other KiCad Plugin.
+
+## Usage
+
+Just click the icon in the toolbar, if no icon is shown, activate under Preferences in PcbNew.
+
+The plugin will hide all references. If all references are hidden, the will be made visible again, in order to be able to quickly check positioning or correctness.
