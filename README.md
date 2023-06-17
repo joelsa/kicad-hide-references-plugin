@@ -6,7 +6,12 @@ While modern versions of KiCad allow to do this natively (Edit -> Edit Text and 
 
 ## Installation
 
-To install, just move the hide_references folder to your KiCad Plugin space, as with any other KiCad Plugin.
+The Plugin can be most easily installed via the Plugin and Content Manager:
+
+![Screenshot from 2023-06-17 16-53-15](https://github.com/joelsa/kicad-hide-references-plugin/assets/11414863/1c6ca06a-bb06-4d12-9bd7-f79054955830)
+
+
+Alternatively,  just move the hide_references folder to your KiCad Plugin space, as with any other KiCad Plugin.
 
 ## Usage
 
