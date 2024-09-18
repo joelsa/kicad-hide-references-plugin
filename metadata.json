@@ -1,6 +1,6 @@
 {
     "$schema": "https://go.kicad.org/pcm/schemas/v1",
-    "name": "My Beautiful Theme",
+    "name": "KiCad hide references plugin",
     "description": "A plugin to toggle visibility of all reference designators",
     "description_full": "This plugin allows to hide all reference designators in a Layout file at the click of a single button, if all references are hidden, all will be shown",
     "identifier": "com.github.joelsa.kicad-hide-references-plugin",
